@@ -23,7 +23,7 @@ preferred-citation:
   doi: 10.48550/arXiv.2609.04199
   url: https://arxiv.org/abs/2609.04199
 references:
-- type: article
+- type: conference-paper
   title: 'Program-as-Weights: A Programming Paradigm for Fuzzy Functions'
   authors:
   - family-names: Zhang
@@ -39,7 +39,5 @@ references:
   - family-names: Deng
     given-names: Yuntian
   year: 2026
-  date-released: '2026-07-02'
-  journal: arXiv
-  doi: 10.48550/arXiv.2607.02512
-  url: https://arxiv.org/abs/2607.02512
+  collection-title: The Fortieth Annual Conference on Neural Information Processing Systems
+  url: https://openreview.net/forum?id=ppCD0mb6ty
