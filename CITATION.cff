@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: If you use this demo in research, please cite Compile by Training and Program-as-Weights for
+  the underlying fuzzy-function programming model.
+type: software
+title: Claudish
+authors:
+- name: ProgramAsWeights contributors
+repository-code: https://github.com/programasweights/claudish
+url: https://programasweights.com/
+preferred-citation:
+  type: article
+  title: 'Compile by Training: Turning Natural-Language Specifications into Local Neural Functions'
+  authors:
+  - family-names: Deng
+    given-names: Yuntian
+  - family-names: Nie
+    given-names: Pengyu
+  - family-names: Shieber
+    given-names: Stuart
+  year: 2026
+  date-released: '2026-09-03'
+  journal: arXiv
+  doi: 10.48550/arXiv.2609.04199
+  url: https://arxiv.org/abs/2609.04199
+references:
+- type: article
+  title: 'Program-as-Weights: A Programming Paradigm for Fuzzy Functions'
+  authors:
+  - family-names: Zhang
+    given-names: Wentao
+  - family-names: Hotsko
+    given-names: Liliana
+  - family-names: Kim
+    given-names: Woojeong
+  - family-names: Nie
+    given-names: Pengyu
+  - family-names: Shieber
+    given-names: Stuart
+  - family-names: Deng
+    given-names: Yuntian
+  year: 2026
+  date-released: '2026-07-02'
+  journal: arXiv
+  doi: 10.48550/arXiv.2607.02512
+  url: https://arxiv.org/abs/2607.02512
