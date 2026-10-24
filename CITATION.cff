@@ -8,7 +8,7 @@ authors:
 repository-code: https://github.com/programasweights/claudish
 url: https://programasweights.com/
 preferred-citation:
-  type: article
+  type: conference-paper
   title: 'Compile by Training: Turning Natural-Language Specifications into Local Neural Functions'
   authors:
   - family-names: Deng
@@ -18,9 +18,7 @@ preferred-citation:
   - family-names: Shieber
     given-names: Stuart
   year: 2026
-  date-released: '2026-09-03'
-  journal: arXiv
-  doi: 10.48550/arXiv.2609.04199
+  collection-title: EMNLP 2026 System Demonstrations
   url: https://arxiv.org/abs/2609.04199
 references:
 - type: conference-paper
