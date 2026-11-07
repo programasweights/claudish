@@ -52,15 +52,24 @@ This is an unofficial parody project and is not affiliated with Anthropic.
 
 The translation functions are described in [Compile by Training (§6.3)](https://arxiv.org/html/2609.04199v1#S6.SS3). If you use this demo in research, please cite that paper and Program-as-Weights for the underlying fuzzy-function programming model.
 
-**[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://arxiv.org/abs/2609.04199)**
+**[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://aclanthology.org/2026.emnlp-demos.78/)**
+
+EMNLP 2026 System Demonstrations · [Preprint](https://arxiv.org/abs/2609.04199)
 
 ```bibtex
-@inproceedings{paw_2609_04199,
+@inproceedings{deng-etal-2026-compile,
   title = {{Compile by Training: Turning Natural-Language Specifications into Local Neural Functions}},
   author = {Deng, Yuntian and Nie, Pengyu and Shieber, Stuart},
-  booktitle = {EMNLP 2026 System Demonstrations},
+  editor = {Agrawal, Sweta and Abad, Alberto},
+  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
+  month = oct,
   year = {2026},
-  url = {https://arxiv.org/abs/2609.04199}
+  address = {Budapest, Hungary},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2026.emnlp-demos.78/},
+  doi = {10.18653/2026.emnlp-demos.78},
+  pages = {830--839},
+  ISBN = {979-8-89176-461-3}
 }
 ```
 
